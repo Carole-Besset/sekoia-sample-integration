@@ -7,12 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## 1.3.0 - 2024-10-30
-
-### Changed
-
-- Add new intake format
-
 ## 1.2.0 - 2024-10-30
 
 ### Changed
